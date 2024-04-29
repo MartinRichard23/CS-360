@@ -1,7 +1,13 @@
 # CS-360
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
-How did you test to ensure your code was functional? Why is this process important and what did it reveal?
-Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
-In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+#Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+-The goal of my project was to create a functional wegiht tracking app that allowed users to enter, edit, or delete a daily weight. Then the app was supposed to take that weight and display it into a table to show the user their daily weights as they enter them. I did not quite finish the whole app before this class was over. But my app allows the user to login or create an account and it allows them to add in a daily weight. Past that it doesnt do much else. 
+#What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+-Well to start making a UI for a user login was a need. I needed to be able to have a database for all of the users that were using my app. Then if they forgot their password I needed a way to let them access that password by sending them a text. The next UI that was needed was the table for the daily weights. This was the most important part of the whole app allowing the user to see the daily weights they put into the app so they can keep track of their weight loss journey. I think some of my designs were successful and others were not. They just looked very plain and not so user engaging. 
+#How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+-The approach was difficult for me. I needed to keep myself on track and I failed to do that with this assignment and class. I had good in line comments that kept the code neat and orginized I just wasnt able to finish all of the code for this project. How this will apply in the future is by me knowing I need more time then others to complete something like this. So I will start sooner or dedicate more time to things like this in the future. 
+#How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+-I ran test to make sure each page I had worked before I strung them together within the android manifest. Once in there I would constently run the app to make sure everything worked properly together. Testing is very important, if something doesnt function properly then the whole app could be compromised and not be as successful as you want it. 
+#Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+-I am a big believer in that you cant constantly stare at something all day and expect to figure out the answer. Walking away and clearing your mind is my innovate way to overcome a challenge. It gives me a chance to look back on what I was doing and see if I can come at it a different way. 
+#In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+-The login page. I think it looks nice and functions well. 
